@@ -148,6 +148,7 @@ All services started with a single command: `docker-compose up -d`
 
 ![DOCKER_FULL_STACK_APP](./DAY_2-DOCKER_COMPOSE_AND_MULTI_CONTAINER_APPS/SCREENSHOTS/DOCKER_FULL_STACK_APP.png)
 *Starting all services with docker-compose up -d*
+
 ---
 
 ### Day 3: NGINX Reverse Proxy + Load Balancing
@@ -198,7 +199,7 @@ All services started with a single command: `docker-compose up -d`
 **Certificate Generation:**
 
 ![HTTP_SECURE_APPLICATION_CERTIFICATE](./DAY_4-SSL_SELF_SIGNED_MKCERT_HTTPS/SCREENSHOTS/HTTP_SECURE_APPLICATION_CERTIFICATE.png)
-*HTTP_GENERATED_CERTIFICATE*
+*HTTP_Generated_Certificate*
 
 ---
 
