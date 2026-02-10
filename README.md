@@ -198,7 +198,7 @@ All services started with a single command: `docker-compose up -d`
 
 **Certificate Generation:**
 
-![HTTPS Certificate](./DAY_4-SSL_SELF_SIGNED_MKCERT_HTTPS/screenshots/http_secure_application_certificate.png)
+![HTTPS Certificate](./DAY_4-SSL_SELF_SIGNED_MKCERT_HTTPS/SCREENSHOTS/certificate.png)
 
 ---
 
