@@ -198,6 +198,8 @@ All services started with a single command: `docker-compose up -d`
 **Certificate Generation:**
 
 ![HTTP_SECURE_APPLICATION_CERTIFICATE](./DAY_4-SSL_SELF_SIGNED_MKCERT_HTTPS/SCREENSHOTS/HTTP_SECURE_APPLICATION_CERTIFICATE.png)
+*HTTP_GENERATED_CERTIFICATE*
+
 ---
 
 ### Day 5: CI-Style Deployment Automation + Capstone
