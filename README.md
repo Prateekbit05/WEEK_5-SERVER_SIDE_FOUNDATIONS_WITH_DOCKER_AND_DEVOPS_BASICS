@@ -445,7 +445,7 @@ docker-compose -f docker-compose.prod.yml down
 
 ---
 
-## 🔧 Useful Docker Commands
+## Useful Docker Commands
 
 ```bash
 # Container Management
@@ -488,7 +488,7 @@ docker volume prune                 # Remove unused volumes
 
 ---
 
-## 📖 Documentation
+## Documentation
 
 Each day's folder contains detailed documentation:
 
