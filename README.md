@@ -24,7 +24,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 This project demonstrates **production-grade server deployment practices** using Docker and DevOps fundamentals. Over 5 days, I built a complete containerized full-stack application with reverse proxy, load balancing, HTTPS, and production-ready deployment automation.
 
@@ -32,7 +32,7 @@ This project demonstrates **production-grade server deployment practices** using
 
 ---
 
-## 🎓 Learning Objectives
+## Learning Objectives
 
 By completing this week's tasks, I gained hands-on experience with:
 
@@ -120,8 +120,8 @@ WEEK_5-SERVER_SIDE_FOUNDATIONS_WITH_DOCKER_AND_DEVOPS_BASICS/
 - Executed Linux commands: `ls`, `ps`, `top`, `df`, `cat /var/log/*`
 
 **Deliverables:**
-- ✅ `Dockerfile` - Container definition for Node.js app
-- ✅ `linux-in-container.md` - Documentation of container exploration
+- `Dockerfile` - Container definition for Node.js app
+- `linux-in-container.md` - Documentation of container exploration
 
 ### Day 2: Docker Compose + Multi-Container Apps
 
