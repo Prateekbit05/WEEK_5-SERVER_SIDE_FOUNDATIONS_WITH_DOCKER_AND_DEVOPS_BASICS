@@ -194,14 +194,6 @@ All services started with a single command: `docker-compose up -d`
 - `ssl-setup.md` - SSL configuration documentation
 - HTTPS working screenshots
 
-#### Screenshots
-
-**Certificate Generation:**
-
-![HTTPS Certificate](./DAY_4-SSL_SELF_SIGNED_MKCERT_HTTPS/SCREENSHOTS/certificate.png)
-
----
-
 ### Day 5: CI-Style Deployment Automation + Capstone
 
 **Topics Covered:**
